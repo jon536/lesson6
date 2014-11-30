@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="ru.eugene.listviewpractice2" >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <!--<provider-->
+            <!--android:authorities=".contentprovider.UniqueRSSContentProvider"-->
+            <!--android:name=""-->
+        <activity
+            android:name=".showResults.MyActivity"
+            android:label="@string/title_activity_my"
+            android:parentActivityName="android.app.ListActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="android.app.ListActivity" />
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".showResults.RssFeed"
+            android:label="@string/title_activity_rss_feed" >
+        </activity>
+        <activity
+            android:name=".showResults.ShowFeed"
+            android:label="@string/title_activity_web_view" >
+        </activity>
+        <activity
+            android:name=".ChangeItem"
+            android:label="@string/title_activity_change_item" >
+        </activity>
+    </application>
+
+</manifest>

@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">ListViewPractice2</string>
-    <string name="title_activity_my">MyActivity</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="app_name">RssReader</string>
     <string name="action_settings">Settings</string>
-    <string name="title_activity_rss_feed">RssFeed</string>
-    <string name="title_activity_web_view">WebViewActivity</string>
-    <string name="title_activity_change_item">ChangeItem</string>
+    <string name="name">Name of feed</string>
+    <string name="link">URL of feed</string>
+    <string name="title_activity_descriptions">Descriptions</string>
+    <string name="title_activity_view_info">ViewInfo</string>
 
 </resources>

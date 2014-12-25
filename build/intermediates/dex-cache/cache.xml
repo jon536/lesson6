@@ -1,29 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<pre-dex-items>
+<items version="2" >
 
     <item
-        dex="/home/eugene/android_practice/ListViewPractice2/app/build/intermediates/pre-dexed/debug/classes-883c9d832dabf31a2306398222b1b1cccd739e05.jar"
-        jar="/home/eugene/android_practice/ListViewPractice2/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jar="/home/eugene/android_temp/lesson7/Lesson7/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
         jumboMode="false"
-        revision="20.0.0"
-        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+        revision="21.1.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/home/eugene/android_temp/lesson7/Lesson7/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-e9ab017526a1021f87372766e9f7478780f06742.jar" />
+    </item>
     <item
-        dex="/home/eugene/android_practice/ListViewPractice2/app/build/intermediates/pre-dexed/debug/classes-a26697b246083de719fb8ab73f59c98ac7731084.jar"
-        jar="/home/eugene/android_practice/ListViewPractice2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/classes.jar"
+        jar="/home/eugene/android_temp/lesson7/Lesson7/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/classes.jar"
         jumboMode="false"
-        revision="20.0.0"
-        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef"/>
+        revision="21.1.1"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="/home/eugene/android_temp/lesson7/Lesson7/app/build/intermediates/pre-dexed/debug/classes-86c5c6ad6958ead8ea352246b68e6db7d5f7cf39.jar" />
+    </item>
     <item
-        dex="/home/eugene/android_practice/ListViewPractice2/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-a673678c19c5a7b96135bd3e537119df0b81374a.jar"
-        jar="/home/eugene/android-studio/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jar="/home/eugene/android_temp/lesson7/Lesson7/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
         jumboMode="false"
-        revision="20.0.0"
-        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+        revision="21.1.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/home/eugene/android_temp/lesson7/Lesson7/app/build/intermediates/pre-dexed/debug/classes-63668463e642ed6555587ead2e34847cf59ea95e.jar" />
+    </item>
     <item
-        dex="/home/eugene/android_practice/ListViewPractice2/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-1243deb4c95b4acbc5fb3bf290c235d64673674b.jar"
-        jar="/home/eugene/android_practice/ListViewPractice2/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jar="/home/eugene/android-studio/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
         jumboMode="false"
-        revision="20.0.0"
-        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+        revision="21.1.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="/home/eugene/android_temp/lesson7/Lesson7/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-1ebeea1460f1e88f37e3205a81a6717de5d90756.jar" />
+    </item>
 
-</pre-dex-items>
+</items>
